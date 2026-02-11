@@ -69,7 +69,7 @@ Réalisé dans le cadre de l'UE *Introduction à l'Informatique Graphique* à l'
 
 ## ▶️ Aperçu
 
-# ![Fatimatou](https://github.com/Fatimatou-DIALLO-87/Sportify/blob/master/gif_sportify.gif)
+# ![Fatimatou](https://github.com/fatima-d-hub/chateau_fort/blob/main/git.gif)
 ---
 
 ## 🛠️ Technologies utilisées
