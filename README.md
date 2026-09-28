@@ -1,6 +1,6 @@
 # Projet de Château Fort 3D – Modélisation (Processing)
 
-## 🚀 Présentation
+## Présentation
 Ce projet consiste en la création d'une **scène 3D interactive** représentant un **Château Fort médiéval**.  
 Développé avec **Processing**, il met en œuvre les concepts fondamentaux de l'informatique graphique.
 
@@ -12,7 +12,7 @@ Réalisé dans le cadre de l'UE *Introduction à l'Informatique Graphique* à l'
 
 ---
 
-## 🧠 Fonctionnalités principales
+## Fonctionnalités principales
 
 ### Construction modulaire
 - Architecture basée sur des **briques individuelles** pour les tours.  
@@ -33,7 +33,7 @@ Réalisé dans le cadre de l'UE *Introduction à l'Informatique Graphique* à l'
 
 ---
 
-## 📚 Fondements techniques
+##  Fondements techniques
 - **Moteur P3D de Processing** pour la 3D.  
 - **Transformations spatiales** : `pushMatrix()`, `popMatrix()`, `translate()`, `rotate()` pour positionner chaque brique et mur.  
 - **Primitives 3D** : `box()` pour les cubiques et `beginShape(TRIANGLES)` pour les toits.  
@@ -41,7 +41,7 @@ Réalisé dans le cadre de l'UE *Introduction à l'Informatique Graphique* à l'
 
 ---
 
-## 🏗️ Structure du projet
+## Structure du projet
 
 | Fichier | Description |
 |---------|-------------|
@@ -55,7 +55,7 @@ Réalisé dans le cadre de l'UE *Introduction à l'Informatique Graphique* à l'
 
 ---
 
-## 🧪 Utilisation et commandes
+## Utilisation et commandes
 
 ### Lancement
 1. Ouvrez **n’importe quel fichier `.pde`** dans l’IDE Processing.  
@@ -67,12 +67,12 @@ Réalisé dans le cadre de l'UE *Introduction à l'Informatique Graphique* à l'
 
 ---
 
-## ▶️ Aperçu
+##  Aperçu
 
 # ![Fatimatou](https://github.com/fatima-d-hub/chateau_fort/blob/main/git.gif)
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 - **Processing 4 (Mode Java)**  
 - **Librairie P3D (OpenGL)**  
 - Concepts d’**informatique graphique** : matrices de transformation, géométrie 3D.  
